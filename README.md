@@ -23,7 +23,7 @@ XLESYVUP is a WhatsApp bot SCRIPT with many fun and powerful features such as Bo
 
 ---
 
-## Install Bot on Termux / VPS / Ubuntu
+## Install For Termux / Ubuntu / Vps
 
 Copy and run the following commands:
 
