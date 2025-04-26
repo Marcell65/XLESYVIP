@@ -22,8 +22,15 @@ XLESYVUP is a WhatsApp bot SCRIPT with many fun and powerful features such as Bo
 [![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Gxyenn/XLESYVIP)
 
 ---
+## Install For Vps/Rdps
+```bash
+git clone https://github.com/Gxyenn/XLESYVIP
+cd hitori
+npm install
+npm update
+```
 
-## Install For Termux / Ubuntu / Vps
+## Install For Termux / Ubuntu / Ssh User
 
 Copy and run the following commands:
 
