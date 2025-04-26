@@ -4,17 +4,14 @@
 
 XLESYVUP is a WhatsApp bot SCRIPT with many fun and powerful features such as Bot Menu, Group Menu, Search, Download, Push, Quotes, Library, AI, Game, Anime, Music, and many more!
 </div>
+
 ---
 
 ## YouTube Creator
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Gxyenn)
 
----
-
 ## Script Update Info
 [![WhatsApp Group](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vap5nJh2UPBDIc9bja1s)
-
----
 
 ## Deploy
 
@@ -48,7 +45,7 @@ User Ubuntu/Vps/Lainya
 ```bash
 npm install
 ```
-## Start/Memulai Script
+## Start Bot Script
 ```bash
 npm start
 ```
