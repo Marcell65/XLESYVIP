@@ -29,11 +29,11 @@ XLESYVUP adalah SCRIPT bot WhatsApp multifungsi dengan berbagai fitur seru dan p
 Salin dan jalankan perintah berikut:
 
 ```bash
-pkg update && pkg upgrade
-pkg install git
-pkg install nodejs
-pkg install ffmpeg
-pkg install imagemagick
+pkg update && pkg upgrade -y
+pkg install git -y
+pkg install nodejs -y
+pkg install ffmpeg -y
+pkg install imagemagick -y
 git clone https://github.com/Gxyenn/XLESYVIP
 cd XLESYVIP
 ```
