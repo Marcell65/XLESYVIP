@@ -1,6 +1,4 @@
-Wih, keren banget! 😄 Oke, kita ubah kode README-nya sesuai permintaanmu. Berikut ini hasilnya:
 
-```markdown
 <div align="center">
 
 ## XLESYVIP
