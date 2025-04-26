@@ -1,8 +1,10 @@
 <div align="center">
 
-*XLESYVIP*
+<h1 align="center" style="color: #ff4c4c;">XLESYVIP</h1>
 
-XLESYVUP is a WhatsApp bot SCRIPT with many fun and powerful features such as Bot Menu, Group Menu, Search, Download, Push, Quotes, Library, AI, Game, Anime, Music, and many more!
+<p align="center" style="color: #ffffff;">
+XLESYVIP is a WhatsApp bot SCRIPT with many fun and powerful features such as Bot Menu, Group Menu, Search, Download, Push, Quotes, Library, AI, Game, Anime, Music, and many more!
+</p>
 </div>
 
 ---
