@@ -7,7 +7,7 @@
 XLESYVIP is a WhatsApp bot SCRIPT with many fun and powerful features such as Bot Menu, Group Menu, Search, Download, Push, Quotes, Library, AI, Game, Anime, Music, and many more!
 </p>
 
-<img src="URL_FOTO_ANIME_ESTETIK" alt="Tampilan To Menu" width="300"/>
+<img src="https://files.catbox.moe/m88z9o.png" alt="Tampilan To Menu" width="300"/>
 
 </div>
 
