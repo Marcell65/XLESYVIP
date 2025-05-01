@@ -9,7 +9,7 @@ XLESYVIP is a WhatsApp bot SCRIPT with many fun and powerful features such as Bo
 
 <img src="https://files.catbox.moe/m88z9o.png" alt="Tampilan To Menu" width="300"/>
 
-</div>
+
 
 ---
 
@@ -32,7 +32,7 @@ XLESYVIP is a WhatsApp bot SCRIPT with many fun and powerful features such as Bo
 #### Deploy to Vercel
 
 [![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Gxyenn/XLESYVIP)
-
+</div>
 ---
 
 ## Install For Vps/Rdps
