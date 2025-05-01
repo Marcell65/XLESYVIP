@@ -81,7 +81,10 @@ npm start
 <div align="center">
 
   --- 
-[Buy No Enc](https://wa.me/6283877636168)
+[NO ENC BUY](https://wa.me/6283877636168)
+PRICE 20K
+
+---
 Please Support Me❣️
 </div>
 
