@@ -13,17 +13,17 @@ XLESYVIP is a WhatsApp bot SCRIPT with many fun and powerful features such as Bo
 
 ---
 
-###  YouTube Creator </p>
+###  YOUTUBE DEV </p>
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Gxyenn)
 
-### Script Update Info
+### UPDATE INFO
 
 [![WhatsApp Group](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vap5nJh2UPBDIc9bja1s)
 
 ---
 
-### Deploy
+### DEPLOY
 
 #### Deploy to Heroku
 
@@ -40,7 +40,7 @@ XLESYVIP is a WhatsApp bot SCRIPT with many fun and powerful features such as Bo
 
 ```bash
 git clone https://github.com/Gxyenn/XLESYVIP
-cd hitori
+cd XLESYVIP
 npm install
 npm update
 ```
