@@ -79,6 +79,9 @@ npm start
 ```
 
 <div align="center">
+
+  --- 
+[Buy No Enc](https://wa.me/6283877636168)
 Please Support Me❣️
 </div>
 
