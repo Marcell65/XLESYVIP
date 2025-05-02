@@ -1,1 +1,88 @@
-function _0x3912(){const _0x2b441c=['pairing_code','packname','fake','dana','https://files.catbox.moe/i0391j.jpeg','8983848woMEJs','listprefix','https://www.youtube.com/@Xlesy-Gxyenn','unwatchFile','cache','1615348twbHZg','namestore','chalk','9764WKcCBV','SUCCEED!.','log','*</>\x20ACCESS\x20ACCEPTED*\x0aLoading!...','120363334736301537@newsletter','./src/media/fake.pdf','./XlesySet','redBright','resolve','410WnJEKM','https://files.catbox.moe/92vy0p.jpg','number_bot','*</>\x20ACCESS\x20DITOLAK*\x0aBot\x20Not\x20Admin!','gopay','1465kdvSjh','APIs','tempatDB','https://telegra.ph/file/95670d63378f7f4210f03.png','watchFile','Update\x20','172473TTFnBi','*</>\x20ACCESS\x20DITOLAK*\x0aUse\x20In\x20Private\x20Chat!','*</>\x20ACCESS\x20DITOLAK*\x0aAdmin\x20Special\x20Features!','owner','*</>\x20ACCESS\x20ACCEPTED*\x0aWait\x20a\x20moment,\x20Lovers\x22\x20XLESYVIP\x20♡.*','Error!','APIKeys','database.json','uang','application/pdf','application/vnd.openxmlformats-officedocument.spreadsheetml.sheet','qris','application/vnd.openxmlformats-officedocument.wordprocessingml.document','readFileSync','ovo','2057066EWqQRg','listv','https://rest-api-gxyenn.vercel.app/','98541VwHkSr','18xWDfwz','botname','pulsa','*</>\x20ACCESS\x20DITOLAK*\x0aOwner\x20Special\x20Features!','https://whatsapp.com/channel/0029Vap5nJh2UPBDIc9bja1s','12ORnOeD','author','24ccsCZj','148710aUHvOi'];_0x3912=function(){return _0x2b441c;};return _0x3912();}const _0x561a0e=_0x4eb3;(function(_0x35b261,_0x3277bd){const _0x421c0f=_0x4eb3,_0x1d880a=_0x35b261();while(!![]){try{const _0x2434d2=-parseInt(_0x421c0f(0x147))/0x1+-parseInt(_0x421c0f(0x144))/0x2*(parseInt(_0x421c0f(0x169))/0x3)+-parseInt(_0x421c0f(0x155))/0x4*(-parseInt(_0x421c0f(0x163))/0x5)+parseInt(_0x421c0f(0x13f))/0x6*(parseInt(_0x421c0f(0x152))/0x7)+-parseInt(_0x421c0f(0x14d))/0x8+-parseInt(_0x421c0f(0x13e))/0x9*(-parseInt(_0x421c0f(0x15e))/0xa)+parseInt(_0x421c0f(0x178))/0xb*(parseInt(_0x421c0f(0x146))/0xc);if(_0x2434d2===_0x3277bd)break;else _0x1d880a['push'](_0x1d880a['shift']());}catch(_0x49371b){_0x1d880a['push'](_0x1d880a['shift']());}}}(_0x3912,0x95d9d));const fs=require('fs'),chalk=require(_0x561a0e(0x154)),XlesySet=require(_0x561a0e(0x15b));global[_0x561a0e(0x145)]=XlesySet[_0x561a0e(0x145)],global[_0x561a0e(0x153)]=XlesySet['namestore'],global['packname']=XlesySet[_0x561a0e(0x149)],global[_0x561a0e(0x140)]=XlesySet['botname'],global[_0x561a0e(0x16c)]=XlesySet[_0x561a0e(0x16c)],global[_0x561a0e(0x14e)]=XlesySet['listprefix'],global[_0x561a0e(0x13c)]=XlesySet[_0x561a0e(0x13c)],global[_0x561a0e(0x160)]=XlesySet['number_bot'],global[_0x561a0e(0x165)]=_0x561a0e(0x170),global[_0x561a0e(0x148)]=!![],global[_0x561a0e(0x14b)]=XlesySet[_0x561a0e(0x14b)],global[_0x561a0e(0x162)]=XlesySet[_0x561a0e(0x162)],global[_0x561a0e(0x177)]=XlesySet[_0x561a0e(0x177)],global[_0x561a0e(0x141)]=XlesySet[_0x561a0e(0x141)],global[_0x561a0e(0x174)]=XlesySet['qris'],global[_0x561a0e(0x14a)]={'anonim':_0x561a0e(0x166),'thumbnailUrl':_0x561a0e(0x15f),'thumbnail':fs[_0x561a0e(0x176)]('./src/media/Xlesy.png'),'gandathumburl':_0x561a0e(0x14c),'docs':fs['readFileSync'](_0x561a0e(0x15a)),'listfakedocs':[_0x561a0e(0x173),'application/vnd.openxmlformats-officedocument.presentationml.presentation',_0x561a0e(0x175),_0x561a0e(0x172)]},global['my']={'yt':_0x561a0e(0x14f),'gh':'https://github.com/Gxyenn/Gxyenn','gc':_0x561a0e(0x143),'ch':_0x561a0e(0x159)},global['limit']={'free':0xf,'premium':0x3e7,'vip':0x270f},global[_0x561a0e(0x171)]={'free':0x2710,'premium':0xf4240,'vip':0x989680},global['mess']={'key0':'Your\x20Apikey\x20has\x20run\x20out!.\x0a_Please\x20contact\x20the\x20creator\x20to\x20buy\x20your\x20Apikey\x20back._','owner':_0x561a0e(0x142),'admin':_0x561a0e(0x16b),'botAdmin':_0x561a0e(0x161),'group':'*</>\x20ACCESS\x20DITOLAK*\x0aUse\x20In\x20Group!','private':_0x561a0e(0x16a),'limit':'*</>\x20ACCESS\x20DITOLAK*\x0aYour\x20Limit\x20Has\x20Been\x20finished!','prem':'*</>\x20ACCESS\x20DITOLAK*\x0apremium\x20users\x20only!','wait':_0x561a0e(0x16d),'error':_0x561a0e(0x16e),'done':_0x561a0e(0x156),'load':_0x561a0e(0x158)},global[_0x561a0e(0x164)]={'Xlesy':_0x561a0e(0x13d)},global[_0x561a0e(0x16f)]={'https://rest-api-gxyenn.vercel.app/':'Xlesy-awokawok'};function _0x4eb3(_0x177657,_0xbf92ed){const _0x391264=_0x3912();return _0x4eb3=function(_0x4eb34e,_0x47d09b){_0x4eb34e=_0x4eb34e-0x13c;let _0x5f2b90=_0x391264[_0x4eb34e];return _0x5f2b90;},_0x4eb3(_0x177657,_0xbf92ed);}let file=require[_0x561a0e(0x15d)](__filename);fs[_0x561a0e(0x167)](file,()=>{const _0xb58508=_0x561a0e;fs[_0xb58508(0x150)](file),console[_0xb58508(0x157)](chalk[_0xb58508(0x15c)](_0xb58508(0x168)+__filename)),delete require[_0xb58508(0x151)][file],require(file);});
+//CREATOR Gxyenn 
+//Version Script No Version
+
+const fs = require('fs');
+const chalk = require('chalk');
+const XlesySet = require('./XlesySet'); // Import konfigurasi dari XlesySet.js
+
+//~~~~~~~~~~~~< GLOBAL SETTINGS >~~~~~~~~~~~~\\
+
+// Data bot
+global.author = XlesySet.author;
+global.namestore = XlesySet.namestore;
+global.packname = XlesySet.packname;
+global.botname = XlesySet.botname;
+global.owner = XlesySet.owner;
+global.listprefix = XlesySet.listprefix;
+global.listv = XlesySet.listv;
+global.number_bot = XlesySet.number_bot;
+global.tempatDB = 'database.json'
+global.pairing_code = true
+
+// Data pembayaran
+global.dana = XlesySet.dana;
+global.gopay = XlesySet.gopay;
+global.ovo = XlesySet.ovo;
+global.pulsa = XlesySet.pulsa;
+global.qris = XlesySet.qris;
+
+global.fake = {
+	anonim: 'https://telegra.ph/file/95670d63378f7f4210f03.png',
+	thumbnailUrl: 'https://files.catbox.moe/92vy0p.jpg',
+	thumbnail: fs.readFileSync('./src/media/Xlesy.png'),
+	gandathumburl: 'https://files.catbox.moe/i0391j.jpeg',
+	docs: fs.readFileSync('./src/media/fake.pdf'),
+	listfakedocs: ['application/vnd.openxmlformats-officedocument.spreadsheetml.sheet','application/vnd.openxmlformats-officedocument.presentationml.presentation','application/vnd.openxmlformats-officedocument.wordprocessingml.document','application/pdf'],
+}
+
+global.my = {
+	yt: 'https://www.youtube.com/@Xlesy-Gxyenn',
+	gh: 'https://github.com/Gxyenn/Gxyenn',
+	gc: 'https://whatsapp.com/channel/0029Vap5nJh2UPBDIc9bja1s',
+	ch: '120363334736301537@newsletter',
+}
+
+global.limit = {
+	free: 15,
+	premium: 999,
+	vip: 9999
+}
+
+global.uang = {
+	free: 10000,
+	premium: 1000000,
+	vip: 10000000
+}
+
+global.mess = {
+	key0: 'Your Apikey has run out!.\n_Please contact the creator to buy your Apikey back._',
+	owner: '*</> ACCESS DITOLAK*\nOwner Special Features!',
+	admin: '*</> ACCESS DITOLAK*\nAdmin Special Features!',
+	botAdmin: '*</> ACCESS DITOLAK*\nBot Not Admin!',
+	group: '*</> ACCESS DITOLAK*\nUse In Group!',
+	private: '*</> ACCESS DITOLAK*\nUse In Private Chat!',
+	limit: '*</> ACCESS DITOLAK*\nYour Limit Has Been finished!',
+	prem: '*</> ACCESS DITOLAK*\npremium users only!',
+	wait: '*</> ACCESS ACCEPTED*\nWait a moment, Lovers" XLESYVIP ♡.*',
+	error: 'Error!',
+	done: 'SUCCEED!.',
+	load: '*</> ACCESS ACCEPTED*\nLoading!...'
+}
+
+global.APIs = {
+  Xlesy: 'https://rest-api-gxyenn.vercel.app/',
+}
+
+global.APIKeys = {
+  'https://rest-api-gxyenn.vercel.app/': 'Xlesy-awokawok', // API Key yang dihasilkan
+}
+
+//~~~~~~~~~~~~~~~< PROCESS >~~~~~~~~~~~~~~~\\
+
+let file = require.resolve(__filename)
+fs.watchFile(file, () => {
+	fs.unwatchFile(file)
+	console.log(chalk.redBright(`Update ${__filename}`))
+	delete require.cache[file]
+	require(file)
+});
