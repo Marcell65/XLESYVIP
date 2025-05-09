@@ -14,13 +14,6 @@ const XlesySet = {
     ovo: ['kosong'],
     pulsa: ['083877636168'],
     qris: ['kosong'],
-    // Cpanel 
-    egg: "15", // Isi id egg
-    nestid: "5", // Isi id nest
-    loc: "1", // Isi id location
-    domain: "_", // isi domai lu di sini 
-    apikey: "_", // Isi api ptla
-    capikey: "_", // Isi api ptlc
 };
 
 module.exports = XlesySet
