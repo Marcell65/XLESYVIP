@@ -1,7 +1,7 @@
 // config.js
 const XlesySet = {
     // Info
-    owner: ['6283877636168'],
+    owner: [''],
     packname: 'Xlesy',
     author: 'Gxyenn',
     botname: 'XlesyBot',
@@ -9,10 +9,9 @@ const XlesySet = {
     listv: ['❀','✿','⚘','々'],
     number_bot: "", // Kalo pake panel bisa masukin nomor di sini, jika belum ambil session. Format: '628xx'
     // Payment
-    dana: ['083877636168'],
-    gopay: ['083877636168'],
+    dana: ['kosong'],
+    gopay: ['kosong'],
     ovo: ['kosong'],
-    pulsa: ['083877636168'],
     qris: ['kosong'],
 };
 
