@@ -1,7 +1,7 @@
 // config.js
 const XlesySet = {
     // Info
-    owner: [''],
+    owner: 'Marcell',
     packname: 'Xlesy',
     author: 'Gxyenn',
     botname: 'XlesyBot',
